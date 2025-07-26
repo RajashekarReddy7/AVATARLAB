@@ -40,7 +40,7 @@ AVATAR_LAB/
 ---
 
 ## ⚙️ Setup Instructions
-
+```bash
 # Clone the repo
 git clone https://github.com/RajashekarReddy7/AVATARLAB.git
 cd AVATARLAB
