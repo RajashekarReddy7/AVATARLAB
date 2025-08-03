@@ -65,4 +65,8 @@ https://github.com/user-attachments/assets/146e96bf-2f2e-4bcc-80a5-79339605438b
 
 
 # Run the app
+
+https://github.com/user-attachments/assets/50773105-2f11-427d-909a-e56b0f206e1d
+
+
 python app.py
