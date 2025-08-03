@@ -52,8 +52,17 @@ venv\Scripts\activate   # On Windows
 # Install dependencies
 pip install -r requirements.txt
 
+
 # Download models manually into checkpoints/
 # (Follow SadTalker / VITS / GFPGAN model links)
+
+
+```
+## DEMO OUTPUT VIDEO
+
+
+https://github.com/user-attachments/assets/146e96bf-2f2e-4bcc-80a5-79339605438b
+
 
 # Run the app
 python app.py
